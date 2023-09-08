@@ -7,13 +7,21 @@
   </div>
   <div>
       <h5>Programming Language & Other Skills</h5>
-      <img src="https://img.shields.io/badge/Java-080d4f?style=flat&logo=Java&logoColor=white "/>
-      <img src="https://img.shields.io/badge/Python-080d4f?style=flat&logo=Python&logoColor=white "/>
-      <img src="https://img.shields.io/badge/Scala-080d4f?style=flat&logo=Scala&logoColor=white "/>
-      <img src="https://img.shields.io/badge/React-080d4f?style=flat&logo=React&logoColor=white "/>
-      <img src="https://img.shields.io/badge/HTML5-080d4f?style=flat&logo=HTML5&logoColor=white "/>
-      <img src="https://img.shields.io/badge/JS-080d4f?style=flat&logo=javascript&logoColor=white "/>
-      <img src="https://img.shields.io/badge/CSS-080d4f?style=flat&logo=css3&logoColor=white "/>
+      <div>
+          <img src="https://img.shields.io/badge/Java-080d4f?style=flat&logo=JAVA&logoColor=white "/>
+          <img src="https://img.shields.io/badge/Python-080d4f?style=flat&logo=Python&logoColor=white "/>
+          <img src="https://img.shields.io/badge/Scala-080d4f?style=flat&logo=Scala&logoColor=white "/>
+          <img src="https://img.shields.io/badge/React-080d4f?style=flat&logo=React&logoColor=white "/>
+          <img src="https://img.shields.io/badge/HTML5-080d4f?style=flat&logo=HTML5&logoColor=white "/>
+          <img src="https://img.shields.io/badge/JS-080d4f?style=flat&logo=javascript&logoColor=white "/>
+          <img src="https://img.shields.io/badge/CSS-080d4f?style=flat&logo=css3&logoColor=white "/>
+      </div>
+      <div style="display: flex; justify-content: space-between;">`
+          <img src="https://img.shields.io/badge/Intellij-080d4f?style=flat&logo=intellij&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Eclipse-080d4f?style=flat&logo=eclipse&logoColor=white"/>
+          <img src="https://img.shields.io/badge/VSCode-080d4f?style=flat&logo=Visual%20Studio%20Code&logoColor=white"/>
+      </div>
+
   </div>
 
   <div>
@@ -35,5 +43,6 @@
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kylesung0520&rank_icon=github&theme=algolia" style="display:inline-block;">
+    <img src="https://github-readme-stats.vercel.app/api?username=kylesung0520&rank_icon=github&theme=algolia" style="display:inline-block;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kylesung0520&langs_count=10&hide_progress=true&theme=algolia" style="display:inline-block;">
 </div>

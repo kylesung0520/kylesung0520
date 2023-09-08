@@ -1,32 +1,39 @@
-### Hi there 👋
+<div align="center">
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&width=100%&section=header&text=WELCOME!!&fontSize=30">
+  <div>
+      <h5>Contact Info</h5>
+      <img src="https://img.shields.io/badge/kylesung0520@gmail.com-080d4f?style=flat&logo=gmail&logoColor=white "/>
+  </div>
+  <div>
+      <h5>Programming Language & Other Skills</h5>
+      <img src="https://img.shields.io/badge/Java-080d4f?style=flat&logo=Java&logoColor=white "/>
+      <img src="https://img.shields.io/badge/Python-080d4f?style=flat&logo=Python&logoColor=white "/>
+      <img src="https://img.shields.io/badge/Scala-080d4f?style=flat&logo=Scala&logoColor=white "/>
+      <img src="https://img.shields.io/badge/React-080d4f?style=flat&logo=React&logoColor=white "/>
+      <img src="https://img.shields.io/badge/HTML5-080d4f?style=flat&logo=HTML5&logoColor=white "/>
+      <img src="https://img.shields.io/badge/JS-080d4f?style=flat&logo=javascript&logoColor=white "/>
+      <img src="https://img.shields.io/badge/CSS-080d4f?style=flat&logo=css3&logoColor=white "/>
+  </div>
 
-Skills
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white "/>
-<img src="https://img.shields.io/badge/Python-007396?style=flat&logo=Python&logoColor=white "/>
-<img src="https://img.shields.io/badge/Scala-007396?style=flat&logo=Scala&logoColor=white "/>
-<img src="https://img.shields.io/badge/AWS-007396?style=flat&logo=AWS&logoColor=white "/>
-<img src="https://img.shields.io/badge/MySQL-007396?style=flat&logo=MySql&logoColor=white "/>
-<img src="https://img.shields.io/badge/Springboot-007396?style=flat&logo=Springboot&logoColor=white "/>
-<img src="https://img.shields.io/badge/Jenkins-007396?style=flat&logo=Jenkins&logoColor=white "/>
-<img src="https://img.shields.io/badge/Docker-007396?style=flat&logo=Docker&logoColor=white "/>
-
-
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kylesung0520&hide_progress=true&theme=algolia)
-
-![kylesung0520's GitHub stats](https://github-readme-stats.vercel.app/api?username=kylesung0520&rank_icon=github&theme=algolia)
-<!--
-**kylesung0520/kylesung0520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <div>
+      <h5>Database</h5>
+      <img src="https://img.shields.io/badge/MySQL-080d4f?style=flat&logo=MySql&logoColor=white "/ >
+      <img src="https://img.shields.io/badge/MongoDB-080d4f?style=flat&logo=MongoDB&logoColor=white "/>
+  </div>
+  <div>
+      <h5>Framework</h5>
+      <img src="https://img.shields.io/badge/Springboot-080d4f?style=flat&logo=Springboot&logoColor=white "/>
+      <img src="https://img.shields.io/badge/Django-080d4f?style=flat&logo=Django&logoColor=white "/>
+  </div>
+  <div>
+      <h5>DevOps</h5>
+      <img src="https://img.shields.io/badge/AWS-080d4f?style=flat&logo=amazonaws&logoColor=white "/>
+      <img src="https://img.shields.io/badge/Jenkins-080d4f?style=flat&logo=Jenkins&logoColor=white "/>
+      <img src="https://img.shields.io/badge/Docker-080d4f?style=flat&logo=Docker&logoColor=white "/>
+  </div>
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kylesung0520&rank_icon=github&theme=algolia" style="display:inline-block;">
+</div>

@@ -45,5 +45,5 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kylesung0520&langs_count=8&hide_progress=true&theme=algolia" style="display:inline-block;">
   
-  <img src="http://mazassumnida.wtf/api/generate_badge?boj=kylesung0520" style="display:inline-block;">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kylesung0520" style="display:inline-block;">
 </div>

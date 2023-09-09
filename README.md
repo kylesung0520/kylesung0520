@@ -15,6 +15,7 @@
           <img src="https://img.shields.io/badge/HTML5-f7a60f?style=flat&logo=HTML5&logoColor=white "/>
           <img src="https://img.shields.io/badge/JS-f7a60f?style=flat&logo=javascript&logoColor=white "/>
           <img src="https://img.shields.io/badge/CSS-f7a60f?style=flat&logo=css3&logoColor=white "/>
+          <img src="https://img.shields.io/badge/JSP-f7a60f?style=flat&logo=jakarta-sever-page&logoColor=white "/>
       </div>
   </div>
 
